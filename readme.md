@@ -11,10 +11,6 @@
 
   <br><br>
 
-  🔗 
-  <a href="https://ridipblog.github.io" target="_blank">Website</a> • 
-  <a href="https://github.com/ridipblog" target="_blank">GitHub</a> • 
-  <a href="mailto:youremail@example.com">Email Me</a> • 
-  <a href="https://linkedin.com/in/yourusername" target="_blank">LinkedIn</a>
+  🔗 <a href="ridipgoswami147@gmail.com">Email Me</a> • 
 
 </div>
