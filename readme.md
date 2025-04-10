@@ -11,6 +11,6 @@
 
   <br><br>
 
-  🔗 <a href="ridipgoswami147@gmail.com">Email Me</a> • 
+  🔗 <a href="mailto:ridipgoswami147@gmail.com">Email Me</a> 
 
 </div>
