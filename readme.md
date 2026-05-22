@@ -6,13 +6,15 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%9F;Building+things+that+matter+%F0%9F%9B%A0%EF%B8%8F;Always+learning%2C+always+shipping+%F0%9F%93%A6)](https://github.com/ridipblog)
-
-<img src="https://komarev.com/ghpvc/?username=ridipblog&label=Profile+Views&color=0e75b6&style=flat-square" />
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/ridipblog?label=Followers&style=flat-square&color=0e75b6)](https://github.com/ridipblog)
-&nbsp;
-![Repos](https://img.shields.io/badge/Public%20Repos-107-0e75b6?style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ridipblog&label=Profile+Views&color=0e75b6&style=flat-square" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/ridipblog">
+    <img src="https://img.shields.io/github/followers/ridipblog?label=Followers&style=flat-square&color=0e75b6" />
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Public%20Repos-107-0e75b6?style=flat-square" />
+</p>
 
 </div>
 
