@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ridip%20Goswami&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Passionate%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+# 👋 Hi, I'm Ridip Goswami
 
-</div>
-
-<div align="center">
+### 🚀 Passionate Developer | Open Source Enthusiast
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ridipblog&label=Profile+Views&color=0e75b6&style=flat-square" />
@@ -23,17 +21,17 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Ridip Goswami
-location: India 🇮🇳
-role: Full-Stack Developer
-focus: Building scalable web apps & contributing to open source
-interests:
+name        : Ridip Goswami
+location    : India 🇮🇳
+role        : Full-Stack Developer
+focus       : Building scalable web apps & contributing to open source
+interests   :
   - Backend Systems & APIs
   - Real-time Applications
   - Developer Tools
-currently_learning: Cloud Architecture & DevOps
-open_to: Collaborations, Freelance, and Open Source
-contact: ridipgoswami147@gmail.com
+learning    : Cloud Architecture & DevOps
+open_to     : Collaborations, Freelance, and Open Source
+contact     : ridipgoswami147@gmail.com
 ```
 
 ---
@@ -75,7 +73,7 @@ contact: ridipgoswami147@gmail.com
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ridipblog&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=ridipblog&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridipblog&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
 
@@ -83,23 +81,7 @@ contact: ridipgoswami147@gmail.com
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ridipblog&theme=tokyonight&hide_border=true" width="60%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ridipblog&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ridipblog&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=ridipblog&theme=tokyonight&hide_border=true" width="60%" />
 
 </div>
 
@@ -109,17 +91,19 @@ contact: ridipgoswami147@gmail.com
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-ridipgoswami147%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridipgoswami147@gmail.com)
+<a href="mailto:ridipgoswami147@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ridipgoswami147%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-ridipblog-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ridipblog)
+<a href="https://github.com/ridipblog">
+  <img src="https://img.shields.io/badge/GitHub-ridipblog-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
 
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
