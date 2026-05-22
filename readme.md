@@ -73,17 +73,24 @@ contact     : ridipgoswami147@gmail.com
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ridipblog&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridipblog&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+| 📁 Total Repos | ⭐ Total Stars | 🍴 Total Forks | 👥 Followers |
+|:-:|:-:|:-:|:-:|
+| ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ridipblog&query=public_repos&label=Repos&color=0e75b6&style=flat-square) | ![Stars](https://img.shields.io/github/stars/ridipblog?affiliations=OWNER&label=Stars&style=flat-square&color=f1c40f) | — | ![Followers](https://img.shields.io/github/followers/ridipblog?label=Followers&style=flat-square&color=2ecc71) |
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=ridipblog&theme=tokyonight&hide_border=true" width="60%" />
+### 🔥 Contribution Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ridipblog&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
+
+---
+
+## 🗂️ Featured Projects
+
+> 💡 *Pin your best repositories on GitHub — they'll show up here automatically on your profile!*
 
 ---
 
